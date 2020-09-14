@@ -1,0 +1,4 @@
+locals {
+  ip_address = "<ip_address>"
+  ami_id     = "<image id of redash ami>"
+}
